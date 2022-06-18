@@ -40,16 +40,9 @@ body {
 }
 
 .header h1 {
-  margin-bottom: -8px;
+  font-size: 30px;
   letter-spacing: 2px;
-}
-
-.header h2 {
-  color: white;
-  font-size: 15px;
-  margin-bottom: 35px;
-  letter-spacing: 2.5px;
-  animation: colorRotate 6s linear 0s infinite;
+  margin-bottom: 10px;
 }
 
 .header img {
